@@ -10,5 +10,3 @@ Beyond coding, I enjoy traveling and immersing myself in the beauty of nature.
 ⚡ Fun fact: Trust me, funny to be with.
 
 🌱 I’m currently learning software engeneering with Power Learn Project.
-
-- 🔭 I’m currently working on ...
